@@ -1,4 +1,4 @@
-# jasmine-slack-reporter
+# jasmine-trello-reporter
 
 Send failed jasmine2 / protractor results to Trello and create a task
 
